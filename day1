@@ -4,3 +4,15 @@ sudo systemctl start ssh
 
 systemctl status ssh
 
+cat /etc/passwd : 어떤 유저가 있는지 확인법
+
+Vmware에 rocky 9 설치
+
+wsl에 우분투 24.04 설치됨
+
+프롬프트에 wsl.exe --install
+
+윈도우, rocky, ubuntu 3개의 시스템이 설치됨
+
+
+
