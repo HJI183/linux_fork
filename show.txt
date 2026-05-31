@@ -1,0 +1,124 @@
+vi ssh_code
+chmod +x ssh_code
+./ssh_code
+ls
+./ssh_code
+sudo yum install git
+./ssh_code
+ls
+cat ssh_code 
+ls
+./ssh_code
+cat ssh_code 
+ssh-keygen -t han -C "byeonyonghan8@gmail.com"
+ssh-keygen -t ed25519 -C "byeonyonghan8@gmail.com"
+cat ssh_code 
+eval "(ssh-agent -s)" ssh-add ~/.ssh/id_ed25519
+eval "(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub
+./ssh_code
+ls
+cat ssh_code 
+echo 'alias push="git commit -m "code""' >> ~/.bashrc
+[admin@localhost linux]$ source ~/.bashrc
+echo 'alias push="git commit -m \"code\""' >> ~/.bashrc
+source ~./bashrc
+clear
+ls
+cd linux/
+ls
+vi day1 
+ls
+cd linux/
+ls
+vi day1 
+ls
+cd ..
+cd ~
+ls linux/
+cd linux/
+ls
+vi day1
+rm -rf day1
+ls
+vi day11 
+exit
+ls
+exit
+cd linux/
+vi day1 
+add
+commit
+push
+cd ..
+cd /home/admin
+cat .bashrc 
+wq
+ls
+c
+alias c=clear
+c
+ls
+lin
+linux
+cd linux/
+ls
+vi day1 
+ls
+roc
+exit
+ls
+cd linux/
+ls
+exit
+ls
+grep /home/admin/.local bin *
+ip addr
+telnet
+sudo yum install telent
+sudo yum install telnet
+ls
+cd linux/
+ls
+cat cod
+cat ali
+cleawr
+clear
+vi day1 
+add
+ls
+cat .bashrc
+cd ..
+cat .bashrc
+wq
+add
+source /.bashrc
+source .bashrc
+add
+cd linux/
+add
+commit
+push
+ls -l --color=auto
+nano .bashrc
+cd ..
+vi .bashrc
+bash
+add
+git init
+ls
+cd linux/
+ls
+cat day1 
+echo $HOSTNAME
+ls
+cd ..
+env | grep HOSTNAME
+set 
+set | grep testa
+export testa
+echo $PS1
+PS1='[\u@\h \W:\d]\$'
+PS1=
+exit
