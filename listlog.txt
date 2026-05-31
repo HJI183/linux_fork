@@ -1,0 +1,439 @@
+vi ssh_code
+chmod +x ssh_code
+./ssh_code
+ls
+./ssh_code
+sudo yum install git
+./ssh_code
+ls
+cat ssh_code 
+ls
+./ssh_code
+cat ssh_code 
+ssh-keygen -t han -C "byeonyonghan8@gmail.com"
+ssh-keygen -t ed25519 -C "byeonyonghan8@gmail.com"
+cat ssh_code 
+eval "(ssh-agent -s)" ssh-add ~/.ssh/id_ed25519
+eval "(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub
+./ssh_code
+ls
+cat ssh_code 
+echo 'alias push="git commit -m "code""' >> ~/.bashrc
+[admin@localhost linux]$ source ~/.bashrc
+echo 'alias push="git commit -m \"code\""' >> ~/.bashrc
+source ~./bashrc
+clear
+ls
+cd linux/
+ls
+vi day1 
+ls
+cd linux/
+ls
+vi day1 
+ls
+cd ..
+cd ~
+ls linux/
+cd linux/
+ls
+vi day1
+rm -rf day1
+ls
+vi day11 
+exit
+ls
+exit
+cd linux/
+vi day1 
+add
+commit
+push
+cd ..
+cd /home/admin
+cat .bashrc 
+wq
+ls
+c
+alias c=clear
+c
+ls
+lin
+linux
+cd linux/
+ls
+vi day1 
+ls
+roc
+exit
+ls
+cd linux/
+ls
+exit
+ls
+grep /home/admin/.local bin *
+ip addr
+telnet
+sudo yum install telent
+sudo yum install telnet
+ls
+cd linux/
+ls
+cat cod
+cat ali
+cleawr
+clear
+vi day1 
+add
+ls
+cat .bashrc
+cd ..
+cat .bashrc
+wq
+add
+source /.bashrc
+source .bashrc
+add
+cd linux/
+add
+commit
+push
+ls -l --color=auto
+nano .bashrc
+cd ..
+vi .bashrc
+bash
+add
+git init
+ls
+cd linux/
+ls
+cat day1 
+echo $HOSTNAME
+ls
+cd ..
+env | grep HOSTNAME
+set 
+set | grep testa
+export testa
+echo $PS1
+PS1='[\u@\h \W:\d]\$'
+PS1=
+exit
+ls
+cd linux/
+ls
+git log --graph --oneline
+$source
+$source .bash_profile
+su root
+add
+cd ..
+source .bashrc
+cd linux/
+add
+commit
+push
+ssh-keygen -t rsa -b 1024
+ls -a
+cd //
+cd ..
+cd ~
+ls -a
+cat .ssh
+cd .ssh
+ls
+ls -l'
+'
+ls -l
+cp id_rsa.pub authorized_keys
+ls -l
+cat id_rsa.pub
+sudo grep authorized /etc/ssh/sshd_config
+cd ..
+ls
+cd linux/
+ls
+cd ..
+ls
+ls -a
+echo .bash_history >> /linux
+echo .bash_history >> show.txt
+cat show.txt 
+cp .bash_histroy show.txt
+cp ~/.bash_histroy show.txt
+cd
+ls
+ls -a
+cat ~/.bash_history > show.txt
+cat show.txt 
+mv linux/
+mv show.txt linux/
+ls
+cd linux/
+ls
+add
+commit
+push
+grep cd show.txt
+grep -c "cd" show.txt
+grep -o "cd" show.txt | wc -l
+cd ..
+cat ~/.bash_history >> linux/show.txt
+ls
+cd linux/
+ls
+cat show.txt 
+getenforce
+sudo vi /etc/selinux/config
+sudo setenforce 0
+ls
+getenforce
+reboot
+exit
+ls
+cd linux/
+ls -a
+cd ..
+ls -a
+cat .bash_history 
+wq
+ls
+clear
+ls -al
+cat .bash_profile 
+echo " echo 'admin login'" > .bash_profile
+cat .bash_profile 
+cat .bash_profile
+su - admin
+su root
+echo $PATH
+mkdirmkdir lib
+mkdir lab
+ls
+rm -rf lab
+ls
+cd linux/
+ls
+vi day1 
+echo "echo '/home/adimin/lab diectory command exection'"
+mkdir lab
+echo "echo '/home/adimin/lab diectory command exection'" > testcmd
+ls
+cat testcmd 
+rm -rf testcmd 
+rm -rf lab
+ls
+cd ..
+ls
+cd linux/
+chmod u+x testcmd
+ls -l
+mkdir lab
+echo "export $PATH:/home/admin/lab" >> ~/.bash_profile
+ls
+cd ..
+ls
+ls -a
+cat .bashhistory
+cat .bash_history
+cd
+ls
+clear
+nano .bash_profile
+ls
+cd linux/
+ls
+vi ali
+chmod +x ali
+./ali
+ls
+add
+./ali
+ls
+alias
+vi ali
+./ali
+add
+ls
+vi ali
+echo 'alias push="git push"' >> ~/.bashrc
+source ~/.bashrc
+echo 'alias add="git add ."' >> ~/.bashrc
+source ~/.bashrc
+echo 'alias push="git push"' >> ~/.bashrc
+source ~/.bashrc
+vi cod
+add
+commit
+echo 'alias push="git commit -m "code"' >> ~/.bashrc
+source ~/.bashrc
+echo 'alias push="git commit -m "code""' >> ~/.bashrc
+source ~/.bashrc
+echo 'alias push="git commit -m "code" " ' >> ~/.bashrc
+source ~/.bashrc
+ip
+ip addr
+echo 'alias push="git commit -m "code" " ' >> ~/.bashrc
+source ~/.bashrc
+echo 'alias push="git commit -m code" ' >> ~/.bashrc
+source ~/.bashrc
+cd /home
+cd admin/
+cat .bashrc
+vi .bashrc
+source ~/.bashrc
+add
+ls
+cd linux/
+add
+commit
+vi .bashrc
+cd ..
+cd /home
+cd admin/
+vi .bashrc
+commit
+cd linux/
+commit
+cd ..
+cd /home/admin ; vi .bashrc
+cd linux/
+commit
+ls
+echo 'alias push="git commit -m "code"' >> ~/.bashrc
+source ~/.bashrc
+cd ..
+ls
+cd /home/admin ; vi .bashrc
+cd linux/
+ls
+echo 'alias commit="git commit -m "code""' >> ~/.bashrc
+source ~/.bashrc
+commit
+git config --global --edit
+push
+ls
+ip addr
+ks'
+ls
+vi day1 
+rm -rf day1 
+vi day1
+vi day11
+cd ..
+locale
+sudo localectl set-locale LANG=ko_KR.UTF-8
+source etc/locate.conf
+source /etc/locate.conf
+source /etc/locale.conf
+cd linux/
+git pull
+ls
+cat day1
+rm -rf day11
+ls
+vi day1 
+ls -a
+rm .day1.sw*
+ls
+vi day1
+clear
+vi day1 
+ls
+vi day1 
+clear
+cd ..
+clear
+echo $SHELL
+su
+ls
+clear
+apt install httpd
+dnf install httpd
+sudo dnf install httpd
+su root
+ls
+reboot
+ls
+cd linux/
+vi day1 
+history
+add
+ls
+cd ..
+source .bashrc
+cd linux/
+add
+commit
+push
+log
+cd 
+ls
+ls -al
+ls
+cd linux/
+vi day1 
+add
+commit 
+push
+ls
+git pull
+ls
+cat ssh_code 
+ls
+mkdir text
+mv day1 text
+ls
+cd text
+ls
+touch day2
+touch day3
+touch day4
+vi day1 
+add
+commit
+push
+cd ..
+ls
+add
+commit
+push
+ls
+vi way.txt
+who am i
+ls
+ls -h
+ls -lah
+ls -l
+ls -lh
+df
+clear
+df -h
+ls -l
+chmod 777 ali
+ls -l
+cat ali
+vi ali
+./ali
+ls
+vi ali
+ls
+chmod 700 text
+ls
+ls -l
+cd text
+ls
+vi day
+ls
+rm day
+vi day1
+ls
+add
+commit
+push
+cd ..
+ls
+exit
