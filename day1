@@ -16,3 +16,14 @@ wsl에 우분투 24.04 설치됨
 
 
 즉 1대의 물리시스템에 가상머신 2개를 생성한 상태
+
+사용자 생성 : admin => 관리자로 설정체크
+
+-mobaxtrem을 이용해서 rocky와 ubuntu에 ssh 접속
+
+-cs(client/server) 환경
+
+linux server, windows server, unix등이 서비스(웹,DB,파일)를 제공하고, window또는 데스크탑용 리눅스가 클라이언트가 돼서 서비스를 사용하기 위해 접속하는 구조,
+서버 프로그램과 클라이언트 프로그램이 필요함.
+예) 웹서비슷를 위한 서버프로그램 : apache Web server, nginx 등
+    웹 서비스 사용을 위한 크라이언트 프로그램 : 브라우저(크롬, 엣지, 사파리등)
