@@ -1,0 +1,4 @@
+#!/bin/bash
+alias add="git add ."
+alias commit="git commit -m "new" "
+alias push="git push"
